@@ -1,0 +1,16 @@
+{
+  "name": "lucid-dream-rpg-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "node backend/server.js",
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
