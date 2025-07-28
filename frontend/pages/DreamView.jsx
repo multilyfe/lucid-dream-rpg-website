@@ -1,0 +1,1 @@
+export default function DreamView() { return <div>View your dreams here.</div>; }
