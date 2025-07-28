@@ -1,1 +1,0 @@
-{ "name": "lucid-dream-rpg-website", "scripts": { "start": "node backend/server.js" } }
