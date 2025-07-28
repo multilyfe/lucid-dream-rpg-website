@@ -1,1 +1,0 @@
-// Routes: /people, /places, /emotions
