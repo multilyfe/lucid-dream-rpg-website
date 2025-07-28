@@ -1,1 +1,0 @@
-console.log('Lucid Dream RPG Frontend Loaded');
